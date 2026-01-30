@@ -10,9 +10,9 @@ description: |
   - Optimize time-series database performance or storage
   - Create tables for sensors, metrics, telemetry, events, or transaction logs
 
-  **Keywords:** CREATE TABLE, schema design, hypertable, Timescale, TimescaleDB, time-series, IoT, metrics, sensor data, event logging, compression policy, continuous aggregates, columnstore, retention policy, chunk interval, segment_by, order_by
+  **Keywords:** CREATE TABLE, hypertable, Timescale, TimescaleDB, time-series, IoT, metrics, sensor data, compression policy, continuous aggregates, columnstore, retention policy, chunk interval, segment_by, order_by
 
-  Step-by-step instructions for hypertable creation, column selection (partition, segment_by, order_by), compression/columnstore policies, retention, continuous aggregates with refresh policies, and performance indexes.
+  Step-by-step instructions for hypertable creation, column selection, compression policies, retention, continuous aggregates, and indexes.
 ---
 
 # TimescaleDB Complete Setup
