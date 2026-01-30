@@ -1,7 +1,7 @@
 ---
 name: design-postgres-tables
 description: |
-  Use this skill for general PostgreSQL table design when NOT using Timescale/TimescaleDB hypertables, or when creating reference/lookup tables alongside hypertables.
+  Use this skill for general PostgreSQL table design.
 
   **Trigger when user asks to:**
   - Design PostgreSQL tables, schemas, or data models
