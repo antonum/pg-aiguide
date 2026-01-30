@@ -4,7 +4,7 @@ description: |
   Use this skill for general PostgreSQL table design when NOT using Timescale/TimescaleDB hypertables, or when creating reference/lookup tables alongside hypertables.
 
   **Trigger when user asks to:**
-  - Design PostgreSQL tables, schemas, or data models (non-time-series)
+  - Design PostgreSQL tables, schemas, or data models
   - Choose data types, constraints, or indexes for PostgreSQL
   - Create user tables, order tables, reference tables, or JSONB schemas
   - Understand PostgreSQL best practices for normalization, constraints, or indexing
