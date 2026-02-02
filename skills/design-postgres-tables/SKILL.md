@@ -4,7 +4,7 @@ description: |
   Use this skill for general PostgreSQL table design.
 
   **Trigger when user asks to:**
-  - Design PostgreSQL tables, schemas, or data models
+  - Design PostgreSQL tables, schemas, or data models when creating new tables and when modifying existing ones.
   - Choose data types, constraints, or indexes for PostgreSQL
   - Create user tables, order tables, reference tables, or JSONB schemas
   - Understand PostgreSQL best practices for normalization, constraints, or indexing
